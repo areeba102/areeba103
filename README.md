@@ -22,7 +22,7 @@
 
 📓 I’m currently learning LLM's and Genrative AI... 😭
 
-📧 fisalabdulrehman97@gmail.com
+📧 faisalabdulrehman97@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/abdul-rehman-m-faisal-525b2b2a4?utm_source=share&utm
 
@@ -45,9 +45,7 @@
  <td align='center' width="200">
         <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
     </td>
-<!--  <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
-    </td> -->
+
  
 </tr>
  
