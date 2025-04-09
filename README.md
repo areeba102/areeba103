@@ -3,7 +3,7 @@
   <h1 align="center">Hi 👋, I'm Areeba</h1>
   <p align="center">
 <a  href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?
-          lines=I'm+a+passionate+frontend+developerWeb+Developer;fullstack+Developer; I'm+always+looking+for+new+challenges+and+opportunities+to+learn+and+grow.&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
+          lines=I'm+a+passionate+frontend+developerWeb+Developer;fullstack+Developer;I'm+always+looking+for+new+challenges+and+opportunities+to+learn+and+grow.&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=areeba102&label=Profile%20views&color=0e75b6&style=flat" alt="areeba102" /> </p>
