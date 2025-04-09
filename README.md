@@ -1,78 +1,27 @@
-<body>
-  <div align="center">
-    <h1> Hi there, I'm Abdul Rehman👋<a href="https://hammad-air.github.io/hammad/"></h1>
-  </div>
-<p align="center">
-<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=NLP+and+Web+Developer;Front+End+Developer;Chatbot+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
-	
-<!-- ## My WordPress Course 
-- [Mubashar Nouman](https://www.youtube.com/channel/UC6lUUWMyuiibsJzV8BNdaEQ)
- -->
 
+<h1 align="center">Hi 👋, I'm Areeba</h1>
+<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<a href="https://github.com/hammad-air"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Front+End+Developer;fullstacker+Developer&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=eab676"></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=areeba102&label=Profile%20views&color=0e75b6&style=flat" alt="areeba102" /> </p>
 
-🔥 NLP & VUI Consultant and Web Developer 
-	
-💰 RISING TALENT at UPWORK ✅
+- 🔭 I’m currently working on **Agentic AI**
 
-💸 HIDDEN GEM on Fiverr
-	
+- 🌱 I’m currently learning **next js, Python, Typescript, Agentic AI**
 
-✨ Favorite Tech: Dialogflow, Typescript, Kommunicate
+- 💬 Ask me about **react, nextjs, Transformer, and more frontend frameworks**
 
-📓 I’m currently learning LLM's and Genrative AI... 😭
+- 📫 How to reach me **areebafaisal102@gmail.com**
 
-📧 faisalabdulrehman97@gmail.com
+- ⚡ Fun fact **I think I am extrovert**
 
-💼 LinkedIn: https://www.linkedin.com/in/abdul-rehman-m-faisal-525b2b2a4?utm_source=share&utm
-
-📷 Instagram : https://www.instagram.com/abdulrehman.faisal.129?igsh=d2VldnB1bTlvamd5
- 
-<h2>Tech Stack</h2>
-
-<table width="100">
-<tr>
-    <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
-    </td>
-
-  <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Google_Assistant_logo.svg/1200px-Google_Assistant_logo.svg.png"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png" width="100">
-    </td>
-
- 
-</tr>
- 
-<tr>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png"  width="80">
-    </td>
-    <td align='center'>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="80">
-    </td>
- <td align='center'>
-        <img src="https://github.com/bestofjs/bestofjs-webui/blob/master/public/logos/vscode.svg" width="80">
-    </td>
-     <td align='center'>
-        <img src="https://download.logo.wine/logo/Amazon_Alexa/Amazon_Alexa-Logo.wine.png">
-    </td>
-</tr>
- 
-
-    
-</table>
-</p>
-<p align="center">
-<a href="mailto:faisalabdulrehman97@gmail.com"><img src="https://img.shields.io/badge/-faisalabdulrehman97@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href=" https://www.instagram.com/abdulrehman.faisal.129?igsh=d2VldnB1bTlvamd5"><img src="https://img.shields.io/badge/-@abdulrehman.faisal.129-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
- </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/areebafaisal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="areebafaisal" height="30" width="40" /></a>
 </p>
 
- 
-<br>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=areeba102&show_icons=true&locale=en&layout=compact" alt="areeba102" /></p>
+
